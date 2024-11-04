@@ -1,0 +1,4 @@
+composer.lock
+*.zip
+/vendor
+.DS_Store
